@@ -1,0 +1,18 @@
+package Abstract;
+
+import Entities.Customer;
+
+public abstract class BaseCustomerManager implements CustomerService{
+
+	@Override
+	public void Save(Customer customer) {
+		System.out.println("Veritabanýna kaydedildi. " + customer.getFirstName());
+		
+	}
+
+	public void save(Customer customer) {
+		System.out.println("Veritabanýna kaydedildi. " + customer.getFirstName());
+		
+	}
+
+}
