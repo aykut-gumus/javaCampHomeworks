@@ -1,5 +1,5 @@
 Java+React Developer Training Camp
 
-Instrcutor : Engin Demiroğ 
+Instructor : Engin Demiroğ 
 
 Homeworks given by the instructor during the camp
