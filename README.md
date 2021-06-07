@@ -1,4 +1,4 @@
-# Java+React Developer Training Camp
+# JAVA+REACT Developer Training Camp
 
 ## Instructor : Engin Demiroğ 
 
