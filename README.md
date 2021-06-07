@@ -1,5 +1,3 @@
-# javaCampHomeworks
-
 Java+React Developer Training Camp
 
 Instrcutor : Engin Demiroğ 
